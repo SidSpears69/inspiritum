@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/sidspears69.github.io/inspiritum/static/css/main.952091d9.chunk.css",
+    "main.js": "/sidspears69.github.io/inspiritum/static/js/main.f9c605d5.chunk.js",
+    "main.js.map": "/sidspears69.github.io/inspiritum/static/js/main.f9c605d5.chunk.js.map",
+    "runtime-main.js": "/sidspears69.github.io/inspiritum/static/js/runtime-main.8de5f9e4.js",
+    "runtime-main.js.map": "/sidspears69.github.io/inspiritum/static/js/runtime-main.8de5f9e4.js.map",
+    "static/js/2.c36b53b5.chunk.js": "/sidspears69.github.io/inspiritum/static/js/2.c36b53b5.chunk.js",
+    "static/js/2.c36b53b5.chunk.js.map": "/sidspears69.github.io/inspiritum/static/js/2.c36b53b5.chunk.js.map",
+    "static/js/3.33d17622.chunk.js": "/sidspears69.github.io/inspiritum/static/js/3.33d17622.chunk.js",
+    "static/js/3.33d17622.chunk.js.map": "/sidspears69.github.io/inspiritum/static/js/3.33d17622.chunk.js.map",
+    "index.html": "/sidspears69.github.io/inspiritum/index.html",
+    "static/css/main.952091d9.chunk.css.map": "/sidspears69.github.io/inspiritum/static/css/main.952091d9.chunk.css.map",
+    "static/js/2.c36b53b5.chunk.js.LICENSE.txt": "/sidspears69.github.io/inspiritum/static/js/2.c36b53b5.chunk.js.LICENSE.txt",
+    "static/media/hourglass.f25a15cc.svg": "/sidspears69.github.io/inspiritum/static/media/hourglass.f25a15cc.svg",
+    "static/media/man.34a205df.svg": "/sidspears69.github.io/inspiritum/static/media/man.34a205df.svg",
+    "static/media/oval.c14f07f4.svg": "/sidspears69.github.io/inspiritum/static/media/oval.c14f07f4.svg",
+    "static/media/pear.da750257.svg": "/sidspears69.github.io/inspiritum/static/media/pear.da750257.svg",
+    "static/media/rectangular.e0c0935b.svg": "/sidspears69.github.io/inspiritum/static/media/rectangular.e0c0935b.svg",
+    "static/media/woman.e1b9d2ec.svg": "/sidspears69.github.io/inspiritum/static/media/woman.e1b9d2ec.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8de5f9e4.js",
+    "static/js/2.c36b53b5.chunk.js",
+    "static/css/main.952091d9.chunk.css",
+    "static/js/main.f9c605d5.chunk.js"
+  ]
+}
